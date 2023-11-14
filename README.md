@@ -1,6 +1,3 @@
-Certainly! Here's a description you can use for your README:
-
----
 
 # CSS3 Perspective Playground
 
